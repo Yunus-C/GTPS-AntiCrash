@@ -3,7 +3,7 @@
 Remember,
 Do not sell this application, because this application already open source.
 Do not change Creator name, to your own name.
-If you see someone who sell the application or change creator name, Please DM GuckTubeYT#3123 or iFika#6127
+If you see someone who sell the application or change creator name, Please DM Yunus#9087
 
 # How to Work
 
@@ -25,3 +25,4 @@ Visual Installer C++
 # Version 1.0
 
 Colors for MetaChanger\Napim\RenkFalan.cpp
+
