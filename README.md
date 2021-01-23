@@ -12,9 +12,13 @@ It blocks Proxy and Internal input as it constantly changes meta.
 # How to Use
 
 Use VPS/Server Realtime For Issue Performance.
+
 Download Visual Studio = https://visualstudio.microsoft.com/tr/ C++
+
 Put This app, to your GTPS HOST Folder [XAMPP, LARAGON, NGINX or smth] (/growtopia) 
+
 Setting on MetaChanger\Napim\MetaChanger.cpp
+
 Delete the meta portion of your GTPS inside the cpp because you won't constantly change meta.
 
 # Dependencies
