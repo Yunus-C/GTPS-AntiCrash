@@ -29,9 +29,13 @@ Visual Installer C++
 # Version 1.0
 
 Colors for MetaChanger\Napim\RenkFalan.cpp
+
 You can enter Server IP in exe.
+
 You can enter Server Port in exe.
+
 You can change how many characters want to use in exe.
+
 You can change how many seconds it will refresh.
 
 More & More...
