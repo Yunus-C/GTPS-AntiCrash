@@ -1,0 +1,3 @@
+﻿  MetaChanger.cpp
+C:\Users\Yunus\Desktop\MetaChanger\Napim\MetaChanger.cpp(35,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Napim.vcxproj -> C:\Users\Yunus\Desktop\MetaChanger\Debug\Napim.exe
